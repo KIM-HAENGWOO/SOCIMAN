@@ -1,0 +1,5 @@
+ 사용자가 입력한 내용을 파일에 저장하는 프로그램
+추가로 저장하는 내용
+기존 내용을 유지하고 새운 내용을 덧붙이기 위A모드를 사용
+python python open close print need life
+python script

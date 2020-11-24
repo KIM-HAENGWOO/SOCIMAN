@@ -1,0 +1,4 @@
+100090,Seoul,Korea,10000
+100092,Seoul,Korea,5000
+100100,Busan,Korea,9000
+200010,"New York",USA,20000
