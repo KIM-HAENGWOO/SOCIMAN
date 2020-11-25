@@ -1,0 +1,12 @@
+/Users/haengwoomac/CloudStation/SOCIMAN/DOJANG/bin/Debug/netcoreapp3.1/Python.deps.json
+/Users/haengwoomac/CloudStation/SOCIMAN/DOJANG/bin/Debug/netcoreapp3.1/Python.runtimeconfig.json
+/Users/haengwoomac/CloudStation/SOCIMAN/DOJANG/bin/Debug/netcoreapp3.1/Python.runtimeconfig.dev.json
+/Users/haengwoomac/CloudStation/SOCIMAN/DOJANG/bin/Debug/netcoreapp3.1/Python.dll
+/Users/haengwoomac/CloudStation/SOCIMAN/DOJANG/bin/Debug/netcoreapp3.1/Python.pdb
+/Users/haengwoomac/CloudStation/SOCIMAN/DOJANG/obj/Debug/netcoreapp3.1/Python.csprojAssemblyReference.cache
+/Users/haengwoomac/CloudStation/SOCIMAN/DOJANG/obj/Debug/netcoreapp3.1/Python.csproj.CoreCompileInputs.cache
+/Users/haengwoomac/CloudStation/SOCIMAN/DOJANG/obj/Debug/netcoreapp3.1/Python.AssemblyInfoInputs.cache
+/Users/haengwoomac/CloudStation/SOCIMAN/DOJANG/obj/Debug/netcoreapp3.1/Python.AssemblyInfo.cs
+/Users/haengwoomac/CloudStation/SOCIMAN/DOJANG/obj/Debug/netcoreapp3.1/Python.dll
+/Users/haengwoomac/CloudStation/SOCIMAN/DOJANG/obj/Debug/netcoreapp3.1/Python.pdb
+/Users/haengwoomac/CloudStation/SOCIMAN/DOJANG/obj/Debug/netcoreapp3.1/Python.genruntimeconfig.cache
